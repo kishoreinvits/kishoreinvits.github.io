@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 2018-03-19 18:26:47
+categories: Start
 title: No Posts yet. Check my About page for now!
 ---
 
