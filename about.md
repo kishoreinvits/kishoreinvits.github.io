@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Please visit https://www.linkedin.com/in/bhargavkishore
+Please visit my [LinkedIn Page](https://www.linkedin.com/in/bhargavkishore)
 
 ### Contact me
 
